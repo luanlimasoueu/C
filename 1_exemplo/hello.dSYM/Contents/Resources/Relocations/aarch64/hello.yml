@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/luanlima/Desktop/github/35_c/C/1_exemplo/hello'
+relocations:     []
+...
