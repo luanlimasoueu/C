@@ -1,2 +1,5 @@
 clang hello.c
 ./a.out
+
+clang hello.c -o hello
+
